@@ -1,0 +1,3 @@
+[submodule "AdaFace"]
+	path = AdaFace
+	url = https://github.com/songphuongle/ARthroPedia_ExploringAnimalsClassification.git
